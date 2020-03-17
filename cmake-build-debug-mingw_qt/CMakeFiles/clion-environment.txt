@@ -1,0 +1,4 @@
+ToolSet: w64 5.0 (local)@D:\Softtware\Qt\qt5.11\Tools\mingw530_32
+Options: 
+
+Options:

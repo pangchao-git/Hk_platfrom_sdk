@@ -1,0 +1,2 @@
+2020-03-04 10:49:19,993 [0x0000224c] WARN  tvwall - <.\tvwall_client.cpp [181] - TVwall::CTvwallClient::GetSceenList> <获取控制权限的电视墙列表失败>
+2020-03-04 10:49:20,081 [0x0000224c] WARN  tvwall - <.\tvwall_client.cpp [227] - TVwall::CTvwallClient::GetSceenList> <获取配置权限的电视墙列表失败>

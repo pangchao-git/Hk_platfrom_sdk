@@ -1,0 +1,1486 @@
+2020-03-17 10:57:04,466 [0x00000b5c] INFO  HikUtility - <  71>	<HIK::InitializeEx>,HikUtility initialize, count: 1
+2020-03-17 10:57:04,471 [0x00000b5c] INFO  HikUtility - <  63>	<HIK::SESSION::InitializeSessionEx>,hikutility session initialize, count[1]
+2020-03-17 10:57:04,492 [0x00000b5c] INFO  STREAM_LAYER - <.\StreamCollect.cpp [42] - CStreamCollect::Init> <CStreamCollect::Init start>
+2020-03-17 10:57:04,499 [0x00000b5c] INFO  root - <61>	<CPlugLoad::Load>,Plug Load , Plug Type = Stream
+2020-03-17 10:57:04,507 [0x00000b5c] INFO  root - <90>	<CPlugLoad::Load>,Dll Dir Path=D:\work\yq_work\Clion_Project\hk_dll\bin\, file=VtduStream.dll
+2020-03-17 10:57:04,580 [0x00000b5c] INFO  root - <90>	<CPlugLoad::Load>,Dll Dir Path=D:\work\yq_work\Clion_Project\hk_dll\bin\, file=PagStream.dll
+2020-03-17 10:57:04,600 [0x00000b5c] INFO  root - <90>	<CPlugLoad::Load>,Dll Dir Path=D:\work\yq_work\Clion_Project\hk_dll\bin\, file=HikStream.dll
+2020-03-17 10:57:04,619 [0x00000b5c] INFO  root - <90>	<CPlugLoad::Load>,Dll Dir Path=D:\work\yq_work\Clion_Project\hk_dll\bin\, file=IASStream.dll
+2020-03-17 10:57:04,720 [0x00000b5c] INFO  STREAM_LAYER - <.\StreamCollect.cpp [48] - CStreamCollect::Init> <CStreamCollect::Init fini>
+2020-03-17 10:57:08,918 [0x00000b5c] ERROR config - <.\SimpleConfig.cpp [51] - Config::CSimpleConfig::LoadFile> <load file error, path=C:\Users\Administrator\Documents\CSC\admin\alarmcenter_cfg.cfg, err=Failed to open file>
+2020-03-17 10:57:08,932 [0x00000b5c] ERROR config - <.\SimpleConfig.cpp [123] - Config::CSimpleConfig::SaveFile> <save file error, file=C:\Users\Administrator\Documents\CSC\admin\alarmcenter_cfg.cfg>
+2020-03-17 10:57:08,944 [0x00000b5c] ERROR config - <.\SimpleConfig.cpp [123] - Config::CSimpleConfig::SaveFile> <save file error, file=C:\Users\Administrator\Documents\CSC\admin\alarmcenter_cfg.cfg>
+2020-03-17 10:57:09,707 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 33080203 nPri = 10001
+2020-03-17 10:57:09,804 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:09,825 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001074 nPri = 10001
+2020-03-17 10:57:09,913 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:09,923 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001074 nPri = 10006
+2020-03-17 10:57:09,929 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001075 nPri = 10001
+2020-03-17 10:57:10,006 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:10,027 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:10,036 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001075 nPri = 10006
+2020-03-17 10:57:10,038 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001076 nPri = 10001
+2020-03-17 10:57:10,110 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:10,117 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:10,123 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001076 nPri = 10006
+2020-03-17 10:57:10,125 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,135 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,141 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,146 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,151 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,157 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,162 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,167 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,172 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,177 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,183 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,189 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,197 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,203 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,206 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:10,207 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,217 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,222 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,226 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,231 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,235 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,239 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,244 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,249 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,253 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,257 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,261 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,277 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,291 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,299 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,305 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,311 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,318 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,322 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,331 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,339 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,347 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,353 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,368 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,387 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,393 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,409 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,413 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,417 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,424 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,429 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,433 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,436 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,441 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,446 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,450 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,455 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,461 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,466 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,470 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,475 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,479 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,483 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,491 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,495 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,500 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,505 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,510 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,514 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,519 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,524 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,529 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,534 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,539 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,544 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,549 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,553 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,556 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,560 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,567 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,572 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,577 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,581 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,584 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,589 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,593 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,600 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,604 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,608 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,612 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,616 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,620 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,624 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,629 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,633 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,637 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,641 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,650 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,653 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,659 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,664 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,670 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,674 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,678 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,685 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,691 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,697 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,702 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,707 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,712 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,717 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,723 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,727 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,734 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,738 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,742 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,746 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,754 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,759 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,763 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,768 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,772 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,777 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,783 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,788 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,796 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,800 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,805 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,809 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,814 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,821 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,825 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,830 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,835 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,839 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,843 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,848 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,853 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,858 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,862 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,867 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,871 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,875 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,880 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,885 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,889 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,897 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,903 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,908 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,913 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,918 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,921 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,927 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,932 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,936 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,941 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,945 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,950 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,957 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,965 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,973 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,980 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,987 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:10,995 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,001 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,005 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,010 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,015 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,023 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,029 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,035 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,040 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,045 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,051 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,056 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,060 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,064 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,071 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,075 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,080 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,085 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,090 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,094 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,100 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,104 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,109 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,116 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,121 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,125 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,130 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,145 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,149 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,153 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,156 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,163 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,166 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,171 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,174 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,179 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,183 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,186 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,190 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,195 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,198 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,202 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,205 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,210 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,213 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,216 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,221 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,225 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,228 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,232 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,235 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,239 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,243 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,247 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,250 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,254 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,260 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,264 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,269 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,273 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,277 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,283 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001077 nPri = 10001
+2020-03-17 10:57:11,360 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:11,367 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001077 nPri = 10006
+2020-03-17 10:57:11,369 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001078 nPri = 10001
+2020-03-17 10:57:11,447 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:11,464 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:11,479 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001078 nPri = 10006
+2020-03-17 10:57:11,489 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001079 nPri = 10001
+2020-03-17 10:57:11,559 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:11,566 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001079 nPri = 10006
+2020-03-17 10:57:11,569 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001080 nPri = 10001
+2020-03-17 10:57:11,581 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:11,636 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:11,647 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:11,655 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001080 nPri = 10006
+2020-03-17 10:57:11,658 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001081 nPri = 10001
+2020-03-17 10:57:11,722 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,727 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,728 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:11,733 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,739 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:11,743 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,752 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,758 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,764 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,769 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,775 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,781 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,786 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,792 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,797 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,802 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,808 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,812 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,816 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,822 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,826 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,830 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,835 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,839 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,843 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,847 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,851 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,858 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,864 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,869 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,874 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,880 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,886 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,891 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,897 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,902 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,908 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,915 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,922 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,928 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,933 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,939 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,945 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,950 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,956 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,962 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,968 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,974 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,980 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,985 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,991 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:11,995 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,000 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,006 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,012 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,017 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,022 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,028 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,033 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,041 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,047 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,052 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,068 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,073 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,078 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,082 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,085 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,089 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,093 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,098 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,102 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,106 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,110 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,114 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,118 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,122 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,126 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,130 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,136 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,139 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,144 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,148 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,152 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,155 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,161 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,165 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,169 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,173 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,177 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,181 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,184 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,190 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,194 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,199 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,204 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,209 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,215 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,220 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,227 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,232 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,238 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,242 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,247 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,251 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,257 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,265 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,270 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,274 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,279 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,284 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,291 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,296 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,301 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,307 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,312 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,317 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,325 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,330 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,336 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,341 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,346 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,354 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,359 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,363 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,368 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,374 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,379 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,386 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,391 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,397 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,402 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,407 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,414 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,419 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,425 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,430 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,434 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,440 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,445 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,451 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,456 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,461 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,467 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,474 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,480 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,485 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,490 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,495 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,502 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,507 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,513 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,519 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,524 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,530 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,537 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,542 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,547 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,553 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,559 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,564 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,571 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,577 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,581 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,587 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,592 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,598 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,603 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,609 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,613 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,620 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,625 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,631 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,638 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,642 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,648 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,653 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,660 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,665 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,672 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,677 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,685 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,693 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,699 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,707 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,711 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,716 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,723 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,728 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,733 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,738 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,743 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,749 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,754 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,761 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,766 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,771 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,776 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,781 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,788 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,793 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,798 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,803 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,809 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,813 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,819 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,825 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,831 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,836 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,840 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,848 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,853 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,858 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,864 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,868 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,874 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,879 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,886 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,891 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,897 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,901 [0x000037fc] ERROR DataStorage - <.\SqliteOper.cpp [547] - CSqliteOper::ExecuteBind> <SQL logic error or missing database>
+2020-03-17 10:57:12,917 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001081 nPri = 10006
+2020-03-17 10:57:12,919 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001082 nPri = 10001
+2020-03-17 10:57:12,991 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,011 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,018 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001082 nPri = 10006
+2020-03-17 10:57:13,019 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001083 nPri = 10001
+2020-03-17 10:57:13,044 [0x000037fc] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 33080203 nPri = 10006
+2020-03-17 10:57:13,092 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,094 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,099 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001083 nPri = 10006
+2020-03-17 10:57:13,106 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001084 nPri = 10001
+2020-03-17 10:57:13,120 [0x000037fc] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,127 [0x000037fc] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 33080203 nPri = 150011
+2020-03-17 10:57:13,177 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,178 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,190 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001084 nPri = 10006
+2020-03-17 10:57:13,192 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001085 nPri = 10001
+2020-03-17 10:57:13,195 [0x000037fc] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,270 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,282 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001085 nPri = 10006
+2020-03-17 10:57:13,282 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,304 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001087 nPri = 10001
+2020-03-17 10:57:13,405 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,410 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,429 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001087 nPri = 10006
+2020-03-17 10:57:13,432 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001088 nPri = 10001
+2020-03-17 10:57:13,503 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,518 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001088 nPri = 10006
+2020-03-17 10:57:13,520 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001089 nPri = 10001
+2020-03-17 10:57:13,529 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,629 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,809 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,822 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001089 nPri = 10006
+2020-03-17 10:57:13,824 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001090 nPri = 10001
+2020-03-17 10:57:13,918 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,923 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:13,956 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001090 nPri = 10006
+2020-03-17 10:57:13,957 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001092 nPri = 10001
+2020-03-17 10:57:14,041 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,053 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,122 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001092 nPri = 10006
+2020-03-17 10:57:14,128 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001093 nPri = 10001
+2020-03-17 10:57:14,205 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,208 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,290 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001093 nPri = 10006
+2020-03-17 10:57:14,292 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001094 nPri = 10001
+2020-03-17 10:57:14,356 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,365 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,372 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001094 nPri = 10006
+2020-03-17 10:57:14,374 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001095 nPri = 10001
+2020-03-17 10:57:14,440 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,444 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,452 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001095 nPri = 10006
+2020-03-17 10:57:14,454 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001096 nPri = 10001
+2020-03-17 10:57:14,520 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,535 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,558 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001096 nPri = 10006
+2020-03-17 10:57:14,563 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001097 nPri = 10001
+2020-03-17 10:57:14,653 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,664 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,672 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001097 nPri = 10006
+2020-03-17 10:57:14,674 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001098 nPri = 10001
+2020-03-17 10:57:14,739 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,740 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,750 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001098 nPri = 10006
+2020-03-17 10:57:14,786 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001099 nPri = 10001
+2020-03-17 10:57:14,857 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,859 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,875 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001099 nPri = 10006
+2020-03-17 10:57:14,878 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001100 nPri = 10001
+2020-03-17 10:57:14,954 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,956 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:14,964 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001100 nPri = 10006
+2020-03-17 10:57:14,972 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001101 nPri = 10001
+2020-03-17 10:57:15,034 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,046 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,055 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001101 nPri = 10006
+2020-03-17 10:57:15,057 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001102 nPri = 10001
+2020-03-17 10:57:15,131 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,140 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,148 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001102 nPri = 10006
+2020-03-17 10:57:15,149 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001103 nPri = 10001
+2020-03-17 10:57:15,218 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,222 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,246 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001103 nPri = 10006
+2020-03-17 10:57:15,291 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001104 nPri = 10001
+2020-03-17 10:57:15,366 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,375 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001104 nPri = 10006
+2020-03-17 10:57:15,378 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,379 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001105 nPri = 10001
+2020-03-17 10:57:15,444 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,463 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,471 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001105 nPri = 10006
+2020-03-17 10:57:15,473 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001106 nPri = 10001
+2020-03-17 10:57:15,544 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,546 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,558 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001106 nPri = 10006
+2020-03-17 10:57:15,560 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001107 nPri = 10001
+2020-03-17 10:57:15,642 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,645 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,651 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001107 nPri = 10006
+2020-03-17 10:57:15,653 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001109 nPri = 10001
+2020-03-17 10:57:15,746 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,748 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,759 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001109 nPri = 10006
+2020-03-17 10:57:15,761 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001110 nPri = 10001
+2020-03-17 10:57:15,833 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,836 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,845 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001110 nPri = 10006
+2020-03-17 10:57:15,847 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001111 nPri = 10001
+2020-03-17 10:57:15,922 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,924 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:15,961 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001111 nPri = 10006
+2020-03-17 10:57:15,968 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001112 nPri = 10001
+2020-03-17 10:57:16,054 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:16,058 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:16,071 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001112 nPri = 10006
+2020-03-17 10:57:16,075 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001113 nPri = 10001
+2020-03-17 10:57:16,146 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:16,152 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:16,198 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001113 nPri = 10006
+2020-03-17 10:57:16,202 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001114 nPri = 10001
+2020-03-17 10:57:16,293 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:16,306 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:16,313 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001114 nPri = 10006
+2020-03-17 10:57:16,315 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001115 nPri = 10001
+2020-03-17 10:57:16,398 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:16,401 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:16,411 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001115 nPri = 10006
+2020-03-17 10:57:16,413 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001116 nPri = 10001
+2020-03-17 10:57:16,485 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:16,493 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:16,520 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001116 nPri = 10006
+2020-03-17 10:57:16,582 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001117 nPri = 10001
+2020-03-17 10:57:16,661 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:16,682 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:17,027 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001117 nPri = 10006
+2020-03-17 10:57:17,032 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001138 nPri = 10001
+2020-03-17 10:57:17,114 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:17,128 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:17,439 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001138 nPri = 10006
+2020-03-17 10:57:17,520 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001234 nPri = 10001
+2020-03-17 10:57:17,610 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:17,613 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:17,923 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001234 nPri = 10006
+2020-03-17 10:57:18,060 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001244 nPri = 10001
+2020-03-17 10:57:18,176 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:18,187 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:18,510 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001244 nPri = 10006
+2020-03-17 10:57:18,603 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001273 nPri = 10001
+2020-03-17 10:57:18,887 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:18,910 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:19,261 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001273 nPri = 10006
+2020-03-17 10:57:19,278 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001284 nPri = 10001
+2020-03-17 10:57:19,372 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:19,405 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:19,861 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001284 nPri = 10006
+2020-03-17 10:57:19,869 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001309 nPri = 10001
+2020-03-17 10:57:19,959 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:19,960 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:20,274 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001309 nPri = 10006
+2020-03-17 10:57:20,334 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001316 nPri = 10001
+2020-03-17 10:57:20,430 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:20,457 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:20,960 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001316 nPri = 10006
+2020-03-17 10:57:20,975 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001324 nPri = 10001
+2020-03-17 10:57:21,051 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:21,056 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:21,513 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001324 nPri = 10006
+2020-03-17 10:57:21,530 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001339 nPri = 10001
+2020-03-17 10:57:21,630 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:21,734 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:22,060 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001339 nPri = 10006
+2020-03-17 10:57:22,134 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001381 nPri = 10001
+2020-03-17 10:57:22,223 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:22,238 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:22,617 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001381 nPri = 10006
+2020-03-17 10:57:22,622 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001397 nPri = 10001
+2020-03-17 10:57:22,707 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:22,708 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:23,007 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001397 nPri = 10006
+2020-03-17 10:57:23,079 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001404 nPri = 10001
+2020-03-17 10:57:23,160 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:23,167 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:23,840 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001404 nPri = 10006
+2020-03-17 10:57:23,849 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001413 nPri = 10001
+2020-03-17 10:57:23,938 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:23,938 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:24,268 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001413 nPri = 10006
+2020-03-17 10:57:24,317 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001422 nPri = 10001
+2020-03-17 10:57:24,409 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:24,423 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:24,863 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001422 nPri = 10006
+2020-03-17 10:57:24,873 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001433 nPri = 10001
+2020-03-17 10:57:24,956 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:24,971 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:25,324 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001433 nPri = 10006
+2020-03-17 10:57:25,342 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001525 nPri = 10001
+2020-03-17 10:57:25,419 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:25,434 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:25,807 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001525 nPri = 10006
+2020-03-17 10:57:25,814 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001536 nPri = 10001
+2020-03-17 10:57:25,908 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:25,909 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:26,394 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001536 nPri = 10006
+2020-03-17 10:57:26,399 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001585 nPri = 10001
+2020-03-17 10:57:26,476 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:26,484 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:26,945 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001585 nPri = 10006
+2020-03-17 10:57:27,024 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001613 nPri = 10001
+2020-03-17 10:57:27,122 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:27,134 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:27,486 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001613 nPri = 10006
+2020-03-17 10:57:27,520 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001631 nPri = 10001
+2020-03-17 10:57:27,625 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:27,627 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:27,993 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001631 nPri = 10006
+2020-03-17 10:57:28,037 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001642 nPri = 10001
+2020-03-17 10:57:28,113 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:28,143 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:28,519 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001642 nPri = 10006
+2020-03-17 10:57:28,537 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001660 nPri = 10001
+2020-03-17 10:57:28,628 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:28,648 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:29,139 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001660 nPri = 10006
+2020-03-17 10:57:29,144 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001669 nPri = 10001
+2020-03-17 10:57:29,223 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:29,292 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:29,647 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001669 nPri = 10006
+2020-03-17 10:57:29,869 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001752 nPri = 10001
+2020-03-17 10:57:29,927 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:29,996 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:30,428 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001752 nPri = 10006
+2020-03-17 10:57:30,480 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001779 nPri = 10001
+2020-03-17 10:57:30,565 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:30,644 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:30,994 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 001779 nPri = 10006
+2020-03-17 10:57:31,121 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002175 nPri = 10001
+2020-03-17 10:57:31,184 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:31,227 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:31,589 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002175 nPri = 10006
+2020-03-17 10:57:31,637 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002203 nPri = 10001
+2020-03-17 10:57:31,727 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:31,738 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:31,952 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002203 nPri = 10006
+2020-03-17 10:57:31,958 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002212 nPri = 10001
+2020-03-17 10:57:32,046 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:32,046 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:32,345 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002212 nPri = 10006
+2020-03-17 10:57:32,352 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002222 nPri = 10001
+2020-03-17 10:57:32,431 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:32,450 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:32,845 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002222 nPri = 10006
+2020-03-17 10:57:32,886 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002233 nPri = 10001
+2020-03-17 10:57:32,994 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:33,005 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:33,365 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002233 nPri = 10006
+2020-03-17 10:57:33,413 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002261 nPri = 10001
+2020-03-17 10:57:33,524 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:33,525 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:33,909 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002261 nPri = 10006
+2020-03-17 10:57:33,942 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002270 nPri = 10001
+2020-03-17 10:57:34,026 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:34,044 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:34,522 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002270 nPri = 10006
+2020-03-17 10:57:34,536 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002290 nPri = 10001
+2020-03-17 10:57:34,629 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:34,649 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:35,017 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002290 nPri = 10006
+2020-03-17 10:57:35,029 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002301 nPri = 10001
+2020-03-17 10:57:35,115 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:35,131 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:35,556 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002301 nPri = 10006
+2020-03-17 10:57:35,632 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002302 nPri = 10001
+2020-03-17 10:57:35,739 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:35,778 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:36,177 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002302 nPri = 10006
+2020-03-17 10:57:36,212 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002309 nPri = 10001
+2020-03-17 10:57:36,304 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:36,328 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:36,730 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002309 nPri = 10006
+2020-03-17 10:57:36,761 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002316 nPri = 10001
+2020-03-17 10:57:36,853 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:36,902 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:37,269 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002316 nPri = 10006
+2020-03-17 10:57:37,307 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002325 nPri = 10001
+2020-03-17 10:57:37,373 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:37,414 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:37,759 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002325 nPri = 10006
+2020-03-17 10:57:37,768 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002336 nPri = 10001
+2020-03-17 10:57:37,860 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:37,862 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:38,148 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002336 nPri = 10006
+2020-03-17 10:57:38,152 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002368 nPri = 10001
+2020-03-17 10:57:38,235 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:38,249 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:38,667 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002368 nPri = 10006
+2020-03-17 10:57:38,676 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002379 nPri = 10001
+2020-03-17 10:57:38,949 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:38,950 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:39,271 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002379 nPri = 10006
+2020-03-17 10:57:39,290 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002390 nPri = 10001
+2020-03-17 10:57:39,380 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:39,400 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:39,744 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002390 nPri = 10006
+2020-03-17 10:57:39,804 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002401 nPri = 10001
+2020-03-17 10:57:39,900 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:39,914 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:40,453 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002401 nPri = 10006
+2020-03-17 10:57:40,475 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002410 nPri = 10001
+2020-03-17 10:57:40,562 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:40,571 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:40,936 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002410 nPri = 10006
+2020-03-17 10:57:40,946 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002431 nPri = 10001
+2020-03-17 10:57:41,045 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:41,054 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:41,528 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002431 nPri = 10006
+2020-03-17 10:57:41,562 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002442 nPri = 10001
+2020-03-17 10:57:41,657 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:41,680 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:42,084 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002442 nPri = 10006
+2020-03-17 10:57:42,153 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002455 nPri = 10001
+2020-03-17 10:57:42,234 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:42,245 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:42,635 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002455 nPri = 10006
+2020-03-17 10:57:42,665 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002464 nPri = 10001
+2020-03-17 10:57:42,766 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:42,794 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:43,198 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002464 nPri = 10006
+2020-03-17 10:57:43,247 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002475 nPri = 10001
+2020-03-17 10:57:43,350 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:43,366 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:43,697 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002475 nPri = 10006
+2020-03-17 10:57:43,705 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002484 nPri = 10001
+2020-03-17 10:57:43,802 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:43,813 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:44,262 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002484 nPri = 10006
+2020-03-17 10:57:44,343 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002495 nPri = 10001
+2020-03-17 10:57:44,405 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:44,468 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:44,789 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002495 nPri = 10006
+2020-03-17 10:57:44,799 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002506 nPri = 10001
+2020-03-17 10:57:44,895 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:44,898 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:45,340 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002506 nPri = 10006
+2020-03-17 10:57:45,393 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002527 nPri = 10001
+2020-03-17 10:57:45,498 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:45,513 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:45,998 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002527 nPri = 10006
+2020-03-17 10:57:46,028 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002536 nPri = 10001
+2020-03-17 10:57:46,118 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:46,127 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:46,583 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002536 nPri = 10006
+2020-03-17 10:57:46,590 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002545 nPri = 10001
+2020-03-17 10:57:46,681 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:46,689 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:47,093 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002545 nPri = 10006
+2020-03-17 10:57:47,108 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002582 nPri = 10001
+2020-03-17 10:57:47,203 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:47,214 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:47,534 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002582 nPri = 10006
+2020-03-17 10:57:47,574 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002593 nPri = 10001
+2020-03-17 10:57:47,674 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:47,717 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:48,192 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002593 nPri = 10006
+2020-03-17 10:57:48,232 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002604 nPri = 10001
+2020-03-17 10:57:48,355 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:48,356 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:49,080 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002604 nPri = 10006
+2020-03-17 10:57:49,130 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002615 nPri = 10001
+2020-03-17 10:57:49,229 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:49,232 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:49,631 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002615 nPri = 10006
+2020-03-17 10:57:49,639 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002626 nPri = 10001
+2020-03-17 10:57:49,735 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:49,738 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:50,352 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002626 nPri = 10006
+2020-03-17 10:57:50,390 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002627 nPri = 10001
+2020-03-17 10:57:50,500 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:50,507 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:51,109 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002627 nPri = 10006
+2020-03-17 10:57:51,247 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002640 nPri = 10001
+2020-03-17 10:57:51,336 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:51,369 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:51,897 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002640 nPri = 10006
+2020-03-17 10:57:51,903 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002663 nPri = 10001
+2020-03-17 10:57:52,044 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:52,052 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:52,496 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002663 nPri = 10006
+2020-03-17 10:57:52,513 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002674 nPri = 10001
+2020-03-17 10:57:52,597 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:52,624 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:52,975 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002674 nPri = 10006
+2020-03-17 10:57:52,990 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002685 nPri = 10001
+2020-03-17 10:57:53,072 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:53,073 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:53,517 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002685 nPri = 10006
+2020-03-17 10:57:53,613 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002694 nPri = 10001
+2020-03-17 10:57:53,905 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:53,917 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:54,359 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002694 nPri = 10006
+2020-03-17 10:57:54,400 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002703 nPri = 10001
+2020-03-17 10:57:54,499 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:54,523 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:54,985 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002703 nPri = 10006
+2020-03-17 10:57:54,994 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002729 nPri = 10001
+2020-03-17 10:57:55,091 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:55,095 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:55,432 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002729 nPri = 10006
+2020-03-17 10:57:55,473 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002742 nPri = 10001
+2020-03-17 10:57:55,571 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:55,578 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:55,919 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002742 nPri = 10006
+2020-03-17 10:57:55,930 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002753 nPri = 10001
+2020-03-17 10:57:56,021 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:56,027 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:56,582 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002753 nPri = 10006
+2020-03-17 10:57:56,587 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002760 nPri = 10001
+2020-03-17 10:57:56,662 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:56,674 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:57,090 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002760 nPri = 10006
+2020-03-17 10:57:57,141 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002771 nPri = 10001
+2020-03-17 10:57:57,228 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:57,249 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:57,698 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002771 nPri = 10006
+2020-03-17 10:57:57,740 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002791 nPri = 10001
+2020-03-17 10:57:57,818 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:57,851 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:58,275 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002791 nPri = 10006
+2020-03-17 10:57:58,325 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002802 nPri = 10001
+2020-03-17 10:57:58,417 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:58,435 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:59,107 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002802 nPri = 10006
+2020-03-17 10:57:59,119 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002882 nPri = 10001
+2020-03-17 10:57:59,296 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:59,424 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:57:59,923 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002882 nPri = 10006
+2020-03-17 10:58:00,065 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002915 nPri = 10001
+2020-03-17 10:58:00,116 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:00,181 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:00,744 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002915 nPri = 10006
+2020-03-17 10:58:00,767 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002924 nPri = 10001
+2020-03-17 10:58:00,846 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:00,877 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:01,284 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002924 nPri = 10006
+2020-03-17 10:58:01,347 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002933 nPri = 10001
+2020-03-17 10:58:01,467 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:01,469 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:02,077 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002933 nPri = 10006
+2020-03-17 10:58:02,092 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002944 nPri = 10001
+2020-03-17 10:58:02,202 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:02,209 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:02,670 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002944 nPri = 10006
+2020-03-17 10:58:02,707 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002961 nPri = 10001
+2020-03-17 10:58:02,786 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:02,856 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:03,351 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002961 nPri = 10006
+2020-03-17 10:58:03,458 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002984 nPri = 10001
+2020-03-17 10:58:03,508 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:03,572 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:03,905 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 002984 nPri = 10006
+2020-03-17 10:58:03,943 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003028 nPri = 10001
+2020-03-17 10:58:04,039 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:04,050 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:04,490 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003028 nPri = 10006
+2020-03-17 10:58:04,501 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003039 nPri = 10001
+2020-03-17 10:58:04,600 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:04,609 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:05,038 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003039 nPri = 10006
+2020-03-17 10:58:05,046 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003052 nPri = 10001
+2020-03-17 10:58:05,144 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:05,153 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:05,518 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003052 nPri = 10006
+2020-03-17 10:58:05,528 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003063 nPri = 10001
+2020-03-17 10:58:05,620 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:05,640 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:06,215 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003063 nPri = 10006
+2020-03-17 10:58:06,240 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003082 nPri = 10001
+2020-03-17 10:58:06,334 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:06,351 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:06,776 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003082 nPri = 10006
+2020-03-17 10:58:06,789 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003093 nPri = 10001
+2020-03-17 10:58:06,872 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:06,897 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:07,342 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003093 nPri = 10006
+2020-03-17 10:58:07,407 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003106 nPri = 10001
+2020-03-17 10:58:07,504 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:07,519 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:07,892 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003106 nPri = 10006
+2020-03-17 10:58:07,901 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003117 nPri = 10001
+2020-03-17 10:58:08,015 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:08,018 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:08,520 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003117 nPri = 10006
+2020-03-17 10:58:08,581 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003132 nPri = 10001
+2020-03-17 10:58:08,862 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:08,888 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:09,331 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003132 nPri = 10006
+2020-03-17 10:58:09,368 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003143 nPri = 10001
+2020-03-17 10:58:09,471 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:09,480 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:09,993 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003143 nPri = 10006
+2020-03-17 10:58:10,024 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003155 nPri = 10001
+2020-03-17 10:58:10,115 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:10,120 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:10,634 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003155 nPri = 10006
+2020-03-17 10:58:10,641 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003176 nPri = 10001
+2020-03-17 10:58:10,740 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:10,750 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:11,129 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003176 nPri = 10006
+2020-03-17 10:58:11,139 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003187 nPri = 10001
+2020-03-17 10:58:11,235 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:11,242 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:11,941 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003187 nPri = 10006
+2020-03-17 10:58:11,995 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003213 nPri = 10001
+2020-03-17 10:58:12,065 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:12,088 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:12,410 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003213 nPri = 10006
+2020-03-17 10:58:12,416 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003225 nPri = 10001
+2020-03-17 10:58:12,503 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:12,520 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:13,157 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003225 nPri = 10006
+2020-03-17 10:58:13,166 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003236 nPri = 10001
+2020-03-17 10:58:13,276 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:13,284 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:13,584 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003236 nPri = 10006
+2020-03-17 10:58:13,591 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003245 nPri = 10001
+2020-03-17 10:58:13,855 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:13,868 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:14,329 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003245 nPri = 10006
+2020-03-17 10:58:14,354 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003265 nPri = 10001
+2020-03-17 10:58:14,430 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:14,449 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:14,790 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003265 nPri = 10006
+2020-03-17 10:58:14,798 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003276 nPri = 10001
+2020-03-17 10:58:14,895 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:14,996 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:15,467 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003276 nPri = 10006
+2020-03-17 10:58:15,542 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003364 nPri = 10001
+2020-03-17 10:58:15,666 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:15,675 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:15,979 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003364 nPri = 10006
+2020-03-17 10:58:16,004 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003496 nPri = 10001
+2020-03-17 10:58:16,095 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:16,097 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:16,550 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003496 nPri = 10006
+2020-03-17 10:58:16,559 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003503 nPri = 10001
+2020-03-17 10:58:16,640 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:16,654 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:17,054 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003503 nPri = 10006
+2020-03-17 10:58:17,059 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003510 nPri = 10001
+2020-03-17 10:58:17,153 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:17,155 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:17,472 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003510 nPri = 10006
+2020-03-17 10:58:17,498 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003517 nPri = 10001
+2020-03-17 10:58:17,580 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:17,591 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:18,009 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003517 nPri = 10006
+2020-03-17 10:58:18,070 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003528 nPri = 10001
+2020-03-17 10:58:18,163 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:18,164 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:18,826 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003528 nPri = 10006
+2020-03-17 10:58:18,838 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003537 nPri = 10001
+2020-03-17 10:58:18,917 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:18,940 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:19,421 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003537 nPri = 10006
+2020-03-17 10:58:19,485 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003548 nPri = 10001
+2020-03-17 10:58:19,585 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:19,591 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:19,969 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003548 nPri = 10006
+2020-03-17 10:58:20,008 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003559 nPri = 10001
+2020-03-17 10:58:20,081 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:20,189 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:20,693 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003559 nPri = 10006
+2020-03-17 10:58:20,741 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003594 nPri = 10001
+2020-03-17 10:58:20,857 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:20,878 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:21,244 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003594 nPri = 10006
+2020-03-17 10:58:21,252 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003605 nPri = 10001
+2020-03-17 10:58:21,337 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:21,349 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:21,881 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003605 nPri = 10006
+2020-03-17 10:58:21,916 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003616 nPri = 10001
+2020-03-17 10:58:22,052 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:22,068 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:22,579 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003616 nPri = 10006
+2020-03-17 10:58:22,591 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003626 nPri = 10001
+2020-03-17 10:58:22,691 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:22,699 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:23,122 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003626 nPri = 10006
+2020-03-17 10:58:23,130 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003635 nPri = 10001
+2020-03-17 10:58:23,211 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:23,212 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:23,655 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003635 nPri = 10006
+2020-03-17 10:58:23,672 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003644 nPri = 10001
+2020-03-17 10:58:23,759 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:23,787 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:24,230 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003644 nPri = 10006
+2020-03-17 10:58:24,255 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003653 nPri = 10001
+2020-03-17 10:58:24,355 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:24,372 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:24,868 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003653 nPri = 10006
+2020-03-17 10:58:24,894 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003664 nPri = 10001
+2020-03-17 10:58:24,987 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:24,999 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:25,482 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003664 nPri = 10006
+2020-03-17 10:58:25,491 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003673 nPri = 10001
+2020-03-17 10:58:25,575 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:25,577 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:25,903 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003673 nPri = 10006
+2020-03-17 10:58:25,924 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003680 nPri = 10001
+2020-03-17 10:58:26,006 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:26,029 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:26,466 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003680 nPri = 10006
+2020-03-17 10:58:26,494 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003697 nPri = 10001
+2020-03-17 10:58:26,584 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:26,604 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:27,065 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003697 nPri = 10006
+2020-03-17 10:58:27,095 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003706 nPri = 10001
+2020-03-17 10:58:27,180 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:27,210 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:27,747 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003706 nPri = 10006
+2020-03-17 10:58:27,797 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003717 nPri = 10001
+2020-03-17 10:58:27,883 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:27,893 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:28,243 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003717 nPri = 10006
+2020-03-17 10:58:28,251 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003724 nPri = 10001
+2020-03-17 10:58:28,347 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:28,348 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:28,749 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003724 nPri = 10006
+2020-03-17 10:58:28,769 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003733 nPri = 10001
+2020-03-17 10:58:28,859 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:28,878 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:29,466 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003733 nPri = 10006
+2020-03-17 10:58:29,483 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003742 nPri = 10001
+2020-03-17 10:58:29,575 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:29,589 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:30,074 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003742 nPri = 10006
+2020-03-17 10:58:30,091 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003751 nPri = 10001
+2020-03-17 10:58:30,182 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:30,196 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:30,697 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003751 nPri = 10006
+2020-03-17 10:58:30,732 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003775 nPri = 10001
+2020-03-17 10:58:30,810 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:30,841 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:31,296 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003775 nPri = 10006
+2020-03-17 10:58:31,346 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003784 nPri = 10001
+2020-03-17 10:58:31,440 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:31,465 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:31,882 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003784 nPri = 10006
+2020-03-17 10:58:31,896 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003795 nPri = 10001
+2020-03-17 10:58:31,992 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:32,003 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:32,308 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003795 nPri = 10006
+2020-03-17 10:58:32,320 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003802 nPri = 10001
+2020-03-17 10:58:32,417 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:32,429 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:32,879 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003802 nPri = 10006
+2020-03-17 10:58:32,899 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003813 nPri = 10001
+2020-03-17 10:58:32,995 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:32,996 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:33,518 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003813 nPri = 10006
+2020-03-17 10:58:33,565 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003826 nPri = 10001
+2020-03-17 10:58:33,660 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:33,678 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:34,095 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003826 nPri = 10006
+2020-03-17 10:58:34,134 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003837 nPri = 10001
+2020-03-17 10:58:34,225 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:34,254 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:34,824 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003837 nPri = 10006
+2020-03-17 10:58:34,843 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003848 nPri = 10001
+2020-03-17 10:58:34,932 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:34,941 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:35,280 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003848 nPri = 10006
+2020-03-17 10:58:35,292 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003857 nPri = 10001
+2020-03-17 10:58:35,381 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:35,392 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:35,971 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003857 nPri = 10006
+2020-03-17 10:58:35,998 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003866 nPri = 10001
+2020-03-17 10:58:36,089 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:36,095 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:36,431 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003866 nPri = 10006
+2020-03-17 10:58:36,448 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003875 nPri = 10001
+2020-03-17 10:58:36,529 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:36,549 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:37,024 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003875 nPri = 10006
+2020-03-17 10:58:37,038 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003886 nPri = 10001
+2020-03-17 10:58:37,152 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:37,157 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:37,605 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003886 nPri = 10006
+2020-03-17 10:58:37,623 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003897 nPri = 10001
+2020-03-17 10:58:37,723 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:37,734 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:38,173 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003897 nPri = 10006
+2020-03-17 10:58:38,203 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003908 nPri = 10001
+2020-03-17 10:58:38,293 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:38,311 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:39,094 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003908 nPri = 10006
+2020-03-17 10:58:39,128 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003919 nPri = 10001
+2020-03-17 10:58:39,225 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:39,235 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:39,619 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003919 nPri = 10006
+2020-03-17 10:58:39,655 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003928 nPri = 10001
+2020-03-17 10:58:39,739 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:39,765 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:40,362 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003928 nPri = 10006
+2020-03-17 10:58:40,375 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003939 nPri = 10001
+2020-03-17 10:58:40,473 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:40,501 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:40,893 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003939 nPri = 10006
+2020-03-17 10:58:40,898 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003948 nPri = 10001
+2020-03-17 10:58:40,986 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:41,000 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:41,441 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003948 nPri = 10006
+2020-03-17 10:58:41,478 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003953 nPri = 10001
+2020-03-17 10:58:41,560 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:41,573 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:41,987 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003953 nPri = 10006
+2020-03-17 10:58:42,020 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003962 nPri = 10001
+2020-03-17 10:58:42,100 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:42,132 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:42,547 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003962 nPri = 10006
+2020-03-17 10:58:42,563 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003969 nPri = 10001
+2020-03-17 10:58:42,656 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:42,657 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:43,085 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003969 nPri = 10006
+2020-03-17 10:58:43,107 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003978 nPri = 10001
+2020-03-17 10:58:43,195 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:43,225 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:43,693 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003978 nPri = 10006
+2020-03-17 10:58:43,704 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003989 nPri = 10001
+2020-03-17 10:58:43,793 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:43,804 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:44,252 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003989 nPri = 10006
+2020-03-17 10:58:44,271 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003997 nPri = 10001
+2020-03-17 10:58:44,351 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:44,360 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:44,826 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 003997 nPri = 10006
+2020-03-17 10:58:44,847 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004006 nPri = 10001
+2020-03-17 10:58:44,934 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:45,025 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:45,668 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004006 nPri = 10006
+2020-03-17 10:58:45,733 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004065 nPri = 10001
+2020-03-17 10:58:45,821 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:45,861 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:46,257 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004065 nPri = 10006
+2020-03-17 10:58:46,267 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004074 nPri = 10001
+2020-03-17 10:58:46,360 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:46,363 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:46,909 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004074 nPri = 10006
+2020-03-17 10:58:47,328 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004083 nPri = 10001
+2020-03-17 10:58:47,411 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:47,422 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:47,808 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004083 nPri = 10006
+2020-03-17 10:58:47,819 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004092 nPri = 10001
+2020-03-17 10:58:47,909 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:47,910 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:48,459 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004092 nPri = 10006
+2020-03-17 10:58:48,465 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004101 nPri = 10001
+2020-03-17 10:58:48,563 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:48,565 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:49,109 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004101 nPri = 10006
+2020-03-17 10:58:49,154 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004110 nPri = 10001
+2020-03-17 10:58:49,240 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:49,261 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:49,739 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004110 nPri = 10006
+2020-03-17 10:58:49,745 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004121 nPri = 10001
+2020-03-17 10:58:49,847 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:49,850 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:50,281 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004121 nPri = 10006
+2020-03-17 10:58:50,289 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004134 nPri = 10001
+2020-03-17 10:58:50,386 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:50,399 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:50,837 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004134 nPri = 10006
+2020-03-17 10:58:50,852 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004145 nPri = 10001
+2020-03-17 10:58:50,935 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:50,950 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:51,327 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004145 nPri = 10006
+2020-03-17 10:58:51,340 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004152 nPri = 10001
+2020-03-17 10:58:51,428 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:51,430 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:51,803 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004152 nPri = 10006
+2020-03-17 10:58:51,812 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004159 nPri = 10001
+2020-03-17 10:58:51,896 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:51,911 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:52,342 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004159 nPri = 10006
+2020-03-17 10:58:52,482 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004166 nPri = 10001
+2020-03-17 10:58:52,572 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:52,585 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:53,040 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004166 nPri = 10006
+2020-03-17 10:58:53,064 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004177 nPri = 10001
+2020-03-17 10:58:53,161 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:53,174 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:53,611 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004177 nPri = 10006
+2020-03-17 10:58:53,627 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004190 nPri = 10001
+2020-03-17 10:58:53,709 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:53,715 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:54,093 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004190 nPri = 10006
+2020-03-17 10:58:54,103 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004197 nPri = 10001
+2020-03-17 10:58:54,189 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:54,197 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:54,702 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004197 nPri = 10006
+2020-03-17 10:58:54,716 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004206 nPri = 10001
+2020-03-17 10:58:54,811 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:54,813 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:55,414 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004206 nPri = 10006
+2020-03-17 10:58:55,451 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004215 nPri = 10001
+2020-03-17 10:58:55,546 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:55,552 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:55,985 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004215 nPri = 10006
+2020-03-17 10:58:55,993 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004224 nPri = 10001
+2020-03-17 10:58:56,089 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:56,091 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:56,698 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004224 nPri = 10006
+2020-03-17 10:58:56,729 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004235 nPri = 10001
+2020-03-17 10:58:56,831 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:56,848 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:57,275 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004235 nPri = 10006
+2020-03-17 10:58:57,313 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004246 nPri = 10001
+2020-03-17 10:58:57,404 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:57,418 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:58,082 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004246 nPri = 10006
+2020-03-17 10:58:58,124 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004258 nPri = 10001
+2020-03-17 10:58:58,231 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:58,232 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:58,710 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004258 nPri = 10006
+2020-03-17 10:58:58,716 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004269 nPri = 10001
+2020-03-17 10:58:58,989 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:58,991 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:59,464 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004269 nPri = 10006
+2020-03-17 10:58:59,496 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004284 nPri = 10001
+2020-03-17 10:58:59,600 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:58:59,607 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:00,140 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004284 nPri = 10006
+2020-03-17 10:59:00,172 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004295 nPri = 10001
+2020-03-17 10:59:00,259 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:00,347 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:01,100 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004295 nPri = 10006
+2020-03-17 10:59:01,157 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004326 nPri = 10001
+2020-03-17 10:59:01,268 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:01,268 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:01,766 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004326 nPri = 10006
+2020-03-17 10:59:01,774 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004337 nPri = 10001
+2020-03-17 10:59:01,864 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:01,875 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:02,338 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004337 nPri = 10006
+2020-03-17 10:59:02,344 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004346 nPri = 10001
+2020-03-17 10:59:02,421 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:02,426 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:02,745 [0x000026a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004346 nPri = 10006
+2020-03-17 10:59:02,750 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004351 nPri = 10001
+2020-03-17 10:59:02,823 [0x000026a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:02,847 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:03,298 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004351 nPri = 10006
+2020-03-17 10:59:03,307 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004362 nPri = 10001
+2020-03-17 10:59:03,413 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:03,416 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:04,173 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004362 nPri = 10006
+2020-03-17 10:59:04,183 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004373 nPri = 10001
+2020-03-17 10:59:04,277 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:04,293 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:04,755 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004373 nPri = 10006
+2020-03-17 10:59:04,761 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004386 nPri = 10001
+2020-03-17 10:59:04,866 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:04,871 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:05,324 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004386 nPri = 10006
+2020-03-17 10:59:05,329 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004397 nPri = 10001
+2020-03-17 10:59:05,427 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:05,436 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:05,951 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004397 nPri = 10006
+2020-03-17 10:59:05,980 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004408 nPri = 10001
+2020-03-17 10:59:06,077 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:06,079 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:06,519 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004408 nPri = 10006
+2020-03-17 10:59:06,529 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004419 nPri = 10001
+2020-03-17 10:59:06,622 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:06,623 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:06,992 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004419 nPri = 10006
+2020-03-17 10:59:07,032 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004430 nPri = 10001
+2020-03-17 10:59:07,130 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:07,165 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:07,745 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004430 nPri = 10006
+2020-03-17 10:59:07,779 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004439 nPri = 10001
+2020-03-17 10:59:07,866 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:07,895 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:08,370 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004439 nPri = 10006
+2020-03-17 10:59:08,395 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004454 nPri = 10001
+2020-03-17 10:59:08,480 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:08,486 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:08,897 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004454 nPri = 10006
+2020-03-17 10:59:08,915 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004463 nPri = 10001
+2020-03-17 10:59:09,003 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:09,020 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:09,485 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004463 nPri = 10006
+2020-03-17 10:59:09,531 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004476 nPri = 10001
+2020-03-17 10:59:09,625 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:09,633 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:10,064 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004476 nPri = 10006
+2020-03-17 10:59:10,071 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004496 nPri = 10001
+2020-03-17 10:59:10,156 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:10,166 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:10,534 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004496 nPri = 10006
+2020-03-17 10:59:10,553 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004505 nPri = 10001
+2020-03-17 10:59:10,642 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:10,648 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:11,091 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004505 nPri = 10006
+2020-03-17 10:59:11,101 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004514 nPri = 10001
+2020-03-17 10:59:11,200 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:11,205 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:11,646 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004514 nPri = 10006
+2020-03-17 10:59:11,652 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004523 nPri = 10001
+2020-03-17 10:59:11,748 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:11,749 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:12,117 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004523 nPri = 10006
+2020-03-17 10:59:12,124 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004534 nPri = 10001
+2020-03-17 10:59:12,216 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:12,236 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:12,677 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004534 nPri = 10006
+2020-03-17 10:59:12,684 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004545 nPri = 10001
+2020-03-17 10:59:12,784 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:12,785 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:13,193 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004545 nPri = 10006
+2020-03-17 10:59:13,205 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004556 nPri = 10001
+2020-03-17 10:59:13,305 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:13,310 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:13,665 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004556 nPri = 10006
+2020-03-17 10:59:13,678 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004567 nPri = 10001
+2020-03-17 10:59:13,973 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:13,989 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:14,329 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004567 nPri = 10006
+2020-03-17 10:59:14,336 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004578 nPri = 10001
+2020-03-17 10:59:14,452 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:14,462 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:14,858 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004578 nPri = 10006
+2020-03-17 10:59:14,880 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004587 nPri = 10001
+2020-03-17 10:59:14,981 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:14,995 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:15,569 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004587 nPri = 10006
+2020-03-17 10:59:15,590 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004598 nPri = 10001
+2020-03-17 10:59:15,676 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:15,720 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:16,203 [0x0000372c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004598 nPri = 10006
+2020-03-17 10:59:16,221 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004613 nPri = 10001
+2020-03-17 10:59:16,321 [0x0000372c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:16,353 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:16,890 [0x0000236c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004613 nPri = 10006
+2020-03-17 10:59:16,896 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004624 nPri = 10001
+2020-03-17 10:59:16,993 [0x0000236c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:17,015 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:17,449 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004624 nPri = 10006
+2020-03-17 10:59:17,489 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004637 nPri = 10001
+2020-03-17 10:59:17,602 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:17,612 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:18,307 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004637 nPri = 10006
+2020-03-17 10:59:18,325 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004683 nPri = 10001
+2020-03-17 10:59:18,425 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:18,497 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:19,407 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004683 nPri = 10006
+2020-03-17 10:59:19,489 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004742 nPri = 10001
+2020-03-17 10:59:19,643 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:19,691 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:20,452 [0x00001e68] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004742 nPri = 10006
+2020-03-17 10:59:20,507 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004777 nPri = 10001
+2020-03-17 10:59:20,598 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:20,643 [0x00001e68] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:21,225 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004777 nPri = 10006
+2020-03-17 10:59:21,249 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004790 nPri = 10001
+2020-03-17 10:59:21,394 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:21,396 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:21,942 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004790 nPri = 10006
+2020-03-17 10:59:21,973 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004801 nPri = 10001
+2020-03-17 10:59:22,084 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:22,088 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:22,602 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004801 nPri = 10006
+2020-03-17 10:59:22,613 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004816 nPri = 10001
+2020-03-17 10:59:22,743 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:22,745 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:23,183 [0x00003298] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004816 nPri = 10006
+2020-03-17 10:59:23,190 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004827 nPri = 10001
+2020-03-17 10:59:23,293 [0x00003298] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:23,296 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:24,160 [0x00002d5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004827 nPri = 10006
+2020-03-17 10:59:24,187 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004840 nPri = 10001
+2020-03-17 10:59:24,280 [0x00002d5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:24,288 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:24,914 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004840 nPri = 10006
+2020-03-17 10:59:24,988 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004851 nPri = 10001
+2020-03-17 10:59:25,081 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:25,084 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:25,610 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004851 nPri = 10006
+2020-03-17 10:59:25,616 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004860 nPri = 10001
+2020-03-17 10:59:25,727 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:25,782 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:26,218 [0x00003ae0] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004860 nPri = 10006
+2020-03-17 10:59:26,223 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004869 nPri = 10001
+2020-03-17 10:59:26,309 [0x00003ae0] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:26,339 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:26,874 [0x0000047c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004869 nPri = 10006
+2020-03-17 10:59:26,895 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004880 nPri = 10001
+2020-03-17 10:59:26,980 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:27,002 [0x0000047c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:27,436 [0x000022a4] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 004880 nPri = 10006
+2020-03-17 10:59:27,470 [0x00000b5c] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 005537 nPri = 10001
+2020-03-17 10:59:27,555 [0x000022a4] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:27,568 [0x00000b5c] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End
+2020-03-17 10:59:28,073 [0x00002c30] INFO  root - <1628>	<CDataLogic::DownLoadCamera>,DownLoadCamera By Cell IndexCode = 005537 nPri = 10006
+2020-03-17 10:59:28,185 [0x00002c30] INFO  root - <1631>	<CDataLogic::DownLoadCamera>,DownLoadCamera End

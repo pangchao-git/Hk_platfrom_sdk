@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="hik_sdk_platform" targetName="hik_sdk_platform" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-MinGW_Qt" CONFIG_NAME="Debug" TOOLCHAIN_NAME="MinGW_Qt" BUILD_OPTIONS="-j 4" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d05d7686-c06c-4a2b-8c40-41169c8db413" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-MinGW_Qt" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1Y4wdUII8CDiV2TJ2FsA8ZKxuso" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\yq_work\Clion_Project\hik_sdk_platform\lib" />
+      <recent name="D:\work\yq_work\Clion_Project\hik_sdk_platform\cmake-build-debug-mingw-_qt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\yq_work\Clion_Project\hik_sdk_platform\include" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="hik_sdk_platform" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$/../hk_dll/bin" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hik_sdk_platform" TARGET_NAME="hik_sdk_platform" CONFIG_NAME="Debug-MinGW_Qt" RUN_TARGET_PROJECT_NAME="hik_sdk_platform" RUN_TARGET_NAME="hik_sdk_platform">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d05d7686-c06c-4a2b-8c40-41169c8db413" name="Default Changelist" comment="" />
+      <created>1579226343804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579226343804</updated>
+      <workItem from="1579226654899" duration="5000" />
+      <workItem from="1579228550159" duration="1666000" />
+      <workItem from="1579233589677" duration="1433000" />
+      <workItem from="1579247200498" duration="3081000" />
+      <workItem from="1579255256869" duration="624000" />
+      <workItem from="1579255898628" duration="12653000" />
+      <workItem from="1579348837906" duration="95000" />
+      <workItem from="1579349520781" duration="357000" />
+      <workItem from="1579354042916" duration="17883000" />
+      <workItem from="1579420606519" duration="3515000" />
+      <workItem from="1579428623345" duration="24134000" />
+      <workItem from="1579504613948" duration="3210000" />
+      <workItem from="1579507910153" duration="20975000" />
+      <workItem from="1579593124795" duration="6624000" />
+      <workItem from="1580298685007" duration="10341000" />
+      <workItem from="1580863038432" duration="9493000" />
+      <workItem from="1581063666350" duration="3115000" />
+      <workItem from="1581157629433" duration="4808000" />
+      <workItem from="1581301211091" duration="4694000" />
+      <workItem from="1581315032361" duration="7675000" />
+      <workItem from="1581329652379" duration="14457000" />
+      <workItem from="1581460238200" duration="2914000" />
+      <workItem from="1581493060053" duration="239000" />
+      <workItem from="1581493473666" duration="2258000" />
+      <workItem from="1581495980437" duration="5000" />
+      <workItem from="1581496449868" duration="430000" />
+      <workItem from="1581497803771" duration="9260000" />
+      <workItem from="1581568451837" duration="284000" />
+      <workItem from="1581588179236" duration="966000" />
+      <workItem from="1581590728682" duration="330000" />
+      <workItem from="1581675560613" duration="181000" />
+      <workItem from="1581676485045" duration="2381000" />
+      <workItem from="1581770931475" duration="4572000" />
+      <workItem from="1582007622239" duration="951000" />
+      <workItem from="1582037609016" duration="599000" />
+      <workItem from="1582206225564" duration="975000" />
+      <workItem from="1582215264964" duration="1114000" />
+      <workItem from="1582271461621" duration="1366000" />
+      <workItem from="1582273009591" duration="3365000" />
+      <workItem from="1582277587893" duration="52520000" />
+      <workItem from="1582700016263" duration="15474000" />
+      <workItem from="1582791135559" duration="1818000" />
+      <workItem from="1582800579848" duration="1906000" />
+      <workItem from="1583152034413" duration="576000" />
+      <workItem from="1583288139248" duration="5000" />
+      <workItem from="1583289498398" duration="1164000" />
+      <workItem from="1583291040355" duration="5280000" />
+      <workItem from="1583315877313" duration="842000" />
+      <workItem from="1583372085702" duration="10061000" />
+      <workItem from="1583446251427" duration="3582000" />
+      <workItem from="1583719854159" duration="2730000" />
+      <workItem from="1584413723998" duration="2349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1559" y="-484" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582791497194">
+      <screen x="1366" y="-510" width="1920" height="1040" />
+    </state>
+    <state x="1559" y="-484" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-510.1920.1040@1366.-510.1920.1040" timestamp="1582791497194" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582367026398" />
+    <state x="2081" y="-290" width="878" height="599" key="#xdebugger.evaluate" timestamp="1582535210254">
+      <screen x="1366" y="-510" width="1920" height="1040" />
+    </state>
+    <state x="2081" y="-290" width="878" height="599" key="#xdebugger.evaluate/0.0.1366.728/1366.-510.1920.1040@1366.-510.1920.1040" timestamp="1582535210254" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1582275202073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582275202073" />
+    <state width="1323" height="71" key="GridCell.Tab.0.bottom" timestamp="1583290666929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-510.1920.1040@0.0.1366.728" timestamp="1582783211007" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-510.1920.1040@1366.-510.1920.1040" timestamp="1582724771773" />
+    <state width="1323" height="71" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583290666929" />
+    <state width="1323" height="71" key="GridCell.Tab.0.center" timestamp="1583290666929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.0.center/0.0.1366.728/1366.-510.1920.1040@0.0.1366.728" timestamp="1582783211006" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1366.728/1366.-510.1920.1040@1366.-510.1920.1040" timestamp="1582724771773" />
+    <state width="1323" height="71" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583290666929" />
+    <state width="1323" height="71" key="GridCell.Tab.0.left" timestamp="1583290666929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.0.left/0.0.1366.728/1366.-510.1920.1040@0.0.1366.728" timestamp="1582783211006" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1366.728/1366.-510.1920.1040@1366.-510.1920.1040" timestamp="1582724771773" />
+    <state width="1323" height="71" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583290666929" />
+    <state width="1323" height="71" key="GridCell.Tab.0.right" timestamp="1583290666929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.0.right/0.0.1366.728/1366.-510.1920.1040@0.0.1366.728" timestamp="1582783211007" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1366.728/1366.-510.1920.1040@1366.-510.1920.1040" timestamp="1582724771773" />
+    <state width="1323" height="71" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583290666929" />
+    <state width="1323" height="221" key="GridCell.Tab.1.bottom" timestamp="1582783211008">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-510.1920.1040@0.0.1366.728" timestamp="1582783211008" />
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-510.1920.1040@1366.-510.1920.1040" timestamp="1582536808250" />
+    <state width="1323" height="221" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582731520752" />
+    <state width="1323" height="221" key="GridCell.Tab.1.center" timestamp="1582783211007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.1.center/0.0.1366.728/1366.-510.1920.1040@0.0.1366.728" timestamp="1582783211007" />
+    <state width="1877" height="346" key="GridCell.Tab.1.center/0.0.1366.728/1366.-510.1920.1040@1366.-510.1920.1040" timestamp="1582536808250" />
+    <state width="1323" height="221" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582731520752" />
+    <state width="1323" height="221" key="GridCell.Tab.1.left" timestamp="1582783211007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.1.left/0.0.1366.728/1366.-510.1920.1040@0.0.1366.728" timestamp="1582783211007" />
+    <state width="1877" height="346" key="GridCell.Tab.1.left/0.0.1366.728/1366.-510.1920.1040@1366.-510.1920.1040" timestamp="1582536808250" />
+    <state width="1323" height="221" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582731520752" />
+    <state width="1323" height="221" key="GridCell.Tab.1.right" timestamp="1582783211008">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="221" key="GridCell.Tab.1.right/0.0.1366.728/1366.-510.1920.1040@0.0.1366.728" timestamp="1582783211008" />
+    <state width="1877" height="346" key="GridCell.Tab.1.right/0.0.1366.728/1366.-510.1920.1040@1366.-510.1920.1040" timestamp="1582536808250" />
+    <state width="1323" height="221" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582731520752" />
+    <state x="1625" y="-503" key="SettingsEditor" timestamp="1582542320435">
+      <screen x="1366" y="-510" width="1920" height="1040" />
+    </state>
+    <state x="1625" y="-503" key="SettingsEditor/0.0.1366.728/1366.-510.1920.1040@1366.-510.1920.1040" timestamp="1582542320435" />
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582272589127" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583315875039">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-510.1920.1040@0.0.1366.728" timestamp="1582700019908" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583315875039" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Platfrom_Server.cpp</url>
+          <line>258</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Platfrom_Server.cpp</url>
+          <line>324</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Platfrom_Server.cpp</url>
+          <line>135</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Platfrom_Server.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Sdk_Base.cpp</url>
+          <line>150</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Platfrom_Server.cpp</url>
+          <line>232</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

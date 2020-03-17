@@ -1,0 +1,6 @@
+2020-03-17 10:57:04,474 [0x00000b5c] INFO  DAGSDK - <137>	<DAG_Init>,Initialize HikUtilitySession success.
+2020-03-17 10:57:04,475 [0x00000b5c] INFO  DAGSDK - <146>	<DAG_Init>,Initialize DagContextManager success.
+2020-03-17 10:57:04,476 [0x00000b5c] INFO  DAGSDK - <155>	<DAG_Init>,Initialize DagClientManager success.
+2020-03-17 10:57:04,476 [0x00000b5c] INFO  DAGSDK - <172>	<DAG_Init>,Start CDagKeepAliveManager success.
+2020-03-17 10:57:04,476 [0x00000b5c] INFO  DAGSDK - <174>	<DAG_Init>,DAG SDK V2.2.0 initialize complete.
+2020-03-17 10:57:04,724 [0x00000b5c] ERROR DAGSDK - <114>	<DAG_Init>,[errorcode=0x00000000]

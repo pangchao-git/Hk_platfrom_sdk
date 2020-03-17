@@ -1,0 +1,17 @@
+
+--- 2020-03-17 10:57:02 Logging Started on ---
+10:57:02 [D] Vag client sdk init logger success.  [VAG_Init:224]
+10:57:02 [D] Vag client sdk is initing!LoadTimes[2].  [VAG_Init:236]
+10:57:02 [D] m_nRecvTimeout=5000, m_nStreamTimeout=20000, m_nFindRecordTimeout=30000, m_nWorkStatusTimeout=30000  [CConfig::Init:87]
+10:57:02 [D] [INFO]-PAG-<54>	<DeviceObject_Init>,DahuaPlugin: DeviceObject_Init  [pfnDeviceSdkLogCB:48]
+10:57:03 [D] LoadDeviceSDK:D:\work\yq_work\Clion_Project\hk_dll\bin\device_plugins/ezviz_device_plugin/ezviz_plugin.dll fail, errcrcode:0!  [CPlaySDKMgr::LoadDeviceSDK:655]
+10:57:03 [D] [INFO]-PAG-<133>	<DeviceObject_Init>,HikPlugin: DeviceObject_Init  [pfnDeviceSdkLogCB:48]
+10:57:03 [D] [DEBUG]-PAG-<507>	<DeviceObject_SetSdkTimeout>,HikPlugin: Get RECV_TIMEOUT OK, stCfg.dwElse = 5000  [pfnDeviceSdkLogCB:48]
+10:57:03 [D] [DEBUG]-PAG-<515>	<DeviceObject_SetSdkTimeout>,HikPlugin: Set RECV_TIMEOUT OK, stCfg.dwElse = 10000  [pfnDeviceSdkLogCB:48]
+10:57:03 [D] [ERROR]-PAG-<202>	<DeviceObject_Init>,HikPlugin DeviceObject_Init: g_hVcaCfgDllHandle == HPR_INVALID_HANDLE, path<D:\work\yq_work\Clion_Project\hk_dll\bin\device_plugins\hik_device_plugin\VcaCfg.dll>, errCode:126  [pfnDeviceSdkLogCB:48]
+10:57:03 [D] [ERROR]-PAG-<261>	<DeviceObject_Init>,HikPlugin DeviceObject_Init: g_hVcaCfgBySdkDll == HPR_INVALID_HANDLE, path<D:\work\yq_work\Clion_Project\hk_dll\bin\device_plugins\hik_device_plugin\VcaCfgBySDK.dll>, errCode:126  [pfnDeviceSdkLogCB:48]
+10:57:03 [D] CLetterFactory::CLetterFactory, Memory:0457ECF0  [CLetterFactory::CLetterFactory:304]
+10:57:04 [D] Vag client sdk init success!  [VAG_Init:264]
+10:57:04 [D] Vag client sdk has inited!LoadTimes[3].  [VAG_Init:232]
+10:57:04 [D] Vag client sdk has inited!LoadTimes[4].  [VAG_Init:232]
+10:57:04 [D] Vag client sdk has inited!LoadTimes[5].  [VAG_Init:232]

@@ -1,0 +1,1 @@
+ -L../lib -lHikPlatformSDK -lCrashAPI -lHikPlatformSDK -lCrashAPI -lhlog -lhpr -llibevent -llibevent_core -llibevent_extra -lws2_32 -lAdvapi32 -llibCjson -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,16 @@
+
+--- 2020-03-17 10:57:03 Logging Started on ---
+10:57:03 [D] Plugin Load file path,D:\work\yq_work\Clion_Project\hk_dll\bin\play_ctrl_config.xml, -409536519!  [CPluginMgr::StaticLoadPlugins:253]
+10:57:03 [D] ProcPluginLoad, Plugin: hik  [CPluginMgr::LoadPlugin:559]
+10:57:03 [D] Plugin Load Success, pszProcName:hik!  [CPluginMgr::LoadPlugin:655]
+10:57:03 [D] ProcPluginLoad, Plugin: dahua  [CPluginMgr::LoadPlugin:559]
+10:57:03 [D] Plugin Load Success, pszProcName:dahua!  [CPluginMgr::LoadPlugin:655]
+10:57:03 [D] Plugin Load Failed, pszProcName:chengfeng, error code:126!  [CPluginMgr::StaticLoadPlugins:280]
+10:57:04 [D] ProcPluginLoad, Plugin: db33  [CPluginMgr::LoadPlugin:559]
+10:57:04 [D] Plugin Load Success, pszProcName:db33!  [CPluginMgr::LoadPlugin:655]
+10:57:04 [D] ProcPluginLoad, Plugin: hik  [CPluginMgr::LoadPlugin:559]
+10:57:04 [D] Plugin Load Success, pszProcName:hik!  [CPluginMgr::LoadPlugin:655]
+10:57:04 [D] Plugin Load Failed, pszProcName:infinova, error code:126!  [CPluginMgr::StaticLoadPlugins:280]
+10:57:04 [D] Plugin Load Failed, pszProcName:hb, error code:126!  [CPluginMgr::StaticLoadPlugins:280]
+10:57:04 [D] Plugin Load Failed, pszProcName:xm_onvif, error code:126!  [CPluginMgr::StaticLoadPlugins:280]
+10:57:04 [D] Vag playctrl sdk init success!  [VPLAY_Init:104]
